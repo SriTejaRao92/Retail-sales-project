@@ -22,4 +22,13 @@ Learn best practices from top stores
 Identify sales drivers
 Deep-dive at lowest level of detail: Store, Product Line, Product
 ![Home](https://github.com/user-attachments/assets/c0e4c200-90f9-4e18-9756-2e8b0a49f617)
+![Executive Summary](https://github.com/user-attachments/assets/18ad23cb-0347-43e3-b5ea-9402c32367b9)
+![Product Line](https://github.com/user-attachments/assets/424083c8-8539-4053-8876-81204b2e2ed4)
+![Products](https://github.com/user-attachments/assets/4b78d9cb-74d0-40c4-84a4-ded92c173023)
+![Product](https://github.com/user-attachments/assets/ef88cf3d-335f-4890-a72c-423de0d60648)
+![Stores](https://github.com/user-attachments/assets/595bca13-fa7d-40fb-ba32-6d07f48932cc)
+![Store](https://github.com/user-attachments/assets/43338f26-a9ff-4ac0-972a-ac894b2943aa)
+![Drivers](https://github.com/user-attachments/assets/b23fd728-d735-46f8-b35a-db5b128e4b65)
+![Adhoc](https://github.com/user-attachments/assets/991fe582-9e99-411e-abbe-3fbf9047be50)
+
 
