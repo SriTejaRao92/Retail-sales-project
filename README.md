@@ -11,7 +11,7 @@ Welcome to the Retail Sales and Customer Demographics Dataset! This synthetic da
 This dataset is a snapshot of a fictional retail landscape, capturing essential attributes that drive retail operations and customer interactions. It includes key details such as Transaction ID, Date, Customer ID, Gender, Age, Product Category, Quantity, Price per Unit, and Total Amount. These attributes enable a multifaceted exploration of sales trends, demographic influences, and purchasing behaviors.
 
 # Summary
-Below I have attached all the images of the dashboard which i have created in tableau and for more details the dashboard you can download my attached tableau workbook file
+Below I have attached all the images of the dashboard which i have created in tableau and for more details about the dashboard you can download my attached tableau workbook file
 
 Assess the performance of your network & grow your sales
 Predict evolution of sales
