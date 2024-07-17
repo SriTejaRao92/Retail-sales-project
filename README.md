@@ -21,4 +21,5 @@ Pinpoint Stores that need help
 Learn best practices from top stores
 Identify sales drivers
 Deep-dive at lowest level of detail: Store, Product Line, Product
-S
+![Home](https://github.com/user-attachments/assets/c0e4c200-90f9-4e18-9756-2e8b0a49f617)
+
